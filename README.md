@@ -51,7 +51,7 @@ This is fcjz's personal homepage.
 
 ## 友情链接
 
-[纸片君ee的个人主页|PAPEREE](https://ellen.cf/)
+[纸片君ee的个人主页-PAPEREE](https://ellen.cf/)
 
 
 
