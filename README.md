@@ -11,7 +11,7 @@ This is fcjz's personal homepage.
 
 绘画，虽然画的不好，使用高漫数位板，绘图软件是krita；
 
-编程，会HTML、CSS和部分Java，正在学习Java和markdown；
+编程，会HTML、CSS、markdown、wikitext和部分JavaScript，正在深入研究JavaScript和nodejs，业余学习python、PHP和Go；
 
 知识管理，使用TiddlyWiki与GitHub进行知识管理，提高效率增长知识；
 
@@ -40,6 +40,8 @@ This is fcjz's personal homepage.
 我现在基本不说话，所以没有人说我说话不好听了，性格变好了很多。
 
 完美。
+
+现在想想，大概是不引人注意？很多时候社交在别人眼里虽然很外向，但是真正留下记忆的地方很少，说起什么事情也大概率不会想到我的。
 
 ## 留言板
 
