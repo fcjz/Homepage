@@ -11,7 +11,9 @@ This is fcjz's personal homepage.
 
 绘画，虽然画的不好，使用高漫数位板，绘图软件是krita；
 
-编程，会HTML、CSS、markdown、wikitext和部分JavaScript，正在深入研究JavaScript和nodejs，业余学习python、PHP和Go；
+编程，会HTML、CSS、markdown、wikitext和部分JavaScript，正在深入研究JavaScript和nodejs，业余学习python、PHP和Go，不求成为编程大佬，只希望愉快的做自己想干的事情；
+
+!(knowledge graph)[https://github.com/fcjz/Homepage/blob/main/v2-9a2c8eeb13a28c25346d02e210127392_r.jpg]
 
 知识管理，使用TiddlyWiki与GitHub进行知识管理，提高效率增长知识；
 
